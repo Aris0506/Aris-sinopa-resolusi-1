@@ -2,3 +2,4 @@ Aris RESOLUSI
 - Konsisten ngoding
 - jadi backend enginer
 -jadi paham nodejs
+- banyak keinginan tapi kenyataan punya keadaan
